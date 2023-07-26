@@ -1,5 +1,5 @@
 #include "shell.h"
-
+#ifdef
 /**
  * _erratoi - converts a string to an integer
  * @s: the string to be converted
@@ -14,6 +14,7 @@ int _erratoi(char *s)
 	if (*s == '+')
 		s++;  /* TODO: why does this make main return 255? */
 	for (i = 0;  s[i] != '\0'; i++)
+;
 	{
 		if (s[i] >= '0' && s[i] <= '9')
 		{
