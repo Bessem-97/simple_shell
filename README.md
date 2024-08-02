@@ -153,20 +153,17 @@ ubunto@ubuntu:~/Bureau/simple_shell$
 ## Bugs
 No known Bugs.
 
-## TEAM
-Chokri Inès  : [LinkedIn/inès] | [GitHub/inès] | [Twitter/inès]\
-Matri Mariem : [LinkedIn/mariem] | [GitHub/mariem] | [Twitter/mariem]
 
-[Article]: <https://www.linkedin.com/pulse/what-really-happens-when-you-type-ls-l-shell-mariem-matri/>
+[Article]: <https://www.linkedin.com/pulse/what-really-happens-when-you-type-ls-l-shell-bessem-97/>
 [Holberton School]: <https://www.holbertonschool.com>
 [LinkedIn/inès]: <https://www.linkedin.com/in/in%C3%A8s-chokri-b247b7175>
-[LinkedIn/mariem]: <https://www.linkedin.com/in/mariem-matri-249620178>
+[LinkedIn/mariem]: <https://www.linkedin.com/in/bessem-97-249620178>
 [GitHub/inès]: <https://github.com/CutiePizza>
-[GitHub/mariem]: <https://github.com/MatriMariem>
+[GitHub/mariem]: <https://github.com/bessem-97>
 [Twitter/inès]: <https://twitter.com/chokri_ines>
-[Twitter/mariem]: <https://twitter.com/MatriMariem>
+[Twitter/mariem]: <https://twitter.com/bessem-97>
 
-## AUTHOR DESCRIPTION (Mariem Matri)
+## AUTHOR DESCRIPTION (bessem belloumi)
  - I'm a Food Process Engineer and a software engineering student at Holberton School.
   - I have been studying low-level programming, high-level
  programming, system engineering and devops, and web
